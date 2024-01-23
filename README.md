@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @research-id1203
 - 👀 I’m interested in Data Science, IT Infrastructure, Security
-- 🌱 I’m currently learning Big Data
+- 🌱 I’m currently learning Social Network Analysis
 - 📫 How to reach me. Email : research.id1203@gmail.com
 
 <!---
